@@ -13,4 +13,4 @@ Pay a Subscription [Pluralsight](pluralsight.com)
 ## This Repo
 This files is a compilation created for myself. Enjoy! ;)
 
-June-2016 / [Emanuel Limeira](https://emanuellimeira.com.br)
+June 2016 / [Emanuel Limeira](https://emanuellimeira.com.br)
